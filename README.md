@@ -1,2 +1,3 @@
 # IP-address-Decimal-to-binary-conversion-
-convert decimal IP to binary IP 
+This simple C code helps to convert the user inputted decimal IP address into the binary IP address.
+Usually binary IP requires in networking so that by use of this code it's become simple.
